@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'miFuente';
+	src: url(../fuentes/Smallville1.ttf);
+}
+
+#fuente-personalizada {
+	font-family:  'miFuente';
+	font-size: 40px;
+ }
+
+
+body {
+	text-align: center;
+	width:500px;
+	background-size: contain;
+	margin:30px auto 30px auto;
+	padding:150px 0 150px 0;
+	border:15px solid black;
+	border-bottom-color:#666666;
+	border-left-color:#333333;
+}
